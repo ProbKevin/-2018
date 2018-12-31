@@ -1,6 +1,6 @@
 # 我的2018
 A big year~
-由于天气太冷，不想出门，于是躺在床上写点东西，下面有煽情（schmaltzy，对不起最近在精读:relaxed:），有电影，有音乐，有照片，有代码，当然也有数学
+由于天气太冷，不想出门，于是躺在床上写点东西，下面有煽情（schmaltzy，对不起最近在精读:relaxed:），有电影，有音乐，有照片，有代码，也有数学
 
 ## 2018年1月
 
@@ -72,7 +72,8 @@ library(plotly)
  **Sheldon和Amy结婚了**
  
 也许我不像很多生活大爆炸粉丝一样是从第一季追到现在，大概我真正的入坑时间是上大学以后吧，当时从第三季开始补一路到第11季。有时候经常自己一个人吃饭，经常看一集TBBT，晚上回到寝室到睡觉的一段时机也是TBBT，大概是把我一天的笑全在睡前哈哈哈哈出来，之后差不多每集看过至少两遍。从第3季23集到第11季24集，Shemy终于结婚了！
-
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/shemy.jpg?raw=true)
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/TBBT.jpg?raw=true)
 
  ## 2018年6月
  
@@ -92,6 +93,9 @@ library(plotly)
 - 关于多元正态分布$N(\pmb \mu,\pmb \Sigam)$的$\pmb \mu$和$\pmb \Sigma$的MLE估计的证明
 
 其实上数学分析的时候，老师就会考很多大定理的证明，当时还不是特别理解。后来觉得这些经典的证明确实是需要记住的，和学其他任何东西需要积累一样，学习证明也是需要积累的。有时候觉得这些技巧太神了吧，当积累量多的时候，这些技巧也不再是技巧，而是自己的方法了~
+
+夏令营面试完拍的一张照片
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/ainter.jpg?raw=true)
  
 ## 2018年9月初
 
@@ -99,11 +103,20 @@ library(plotly)
 
 8月底到9月初大概是我大学里面最难熬最挣扎的一段时间了，白天为保研考研做准备，晚上睁眼到两三点才能睡着，甚至有天晚上一个人洗完澡跑到宿舍楼天台吹了半个小时的风，压力大到不想和任何人说话~最终一步步走过来，真的很幸运，只有两个字“感恩！”
 
+当时天台拍的照片
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/wu.jpg?raw=true)
+
+保研录取
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/confirm.jpg?raw=true)
+
 ## 2018年11月
 
 **开启了毕业论文**
 
 因为要读博，所以想称毕业论文这个机会练一练理论，感谢姚大大给了我一个方向
+
+*Simulation*
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/thesis.png?raw=true)
 
 ## 2018年12月
 
@@ -111,7 +124,9 @@ library(plotly)
 
 感动和收获都很多，圆了主席梦吧2333
 
+![](https://github.com/ProbKevin/-2018/blob/master/pictures/Rconf.jpg?raw=true)
 
+新的一年，继续加油！送给大家一首《改变自己》:stuck_out_tongue_winking_eye:
 
 
  
