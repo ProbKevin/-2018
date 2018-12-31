@@ -65,6 +65,5 @@ library(plotly)
                                   hjust = 0.5)))%>%
   ggplotly()
  ```
- 
- ![](https://upload-images.jianshu.io/upload_images/12117152-cb7dfcf527372d5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+ ![](https://github.com/ProbKevin/-2018/blob/master/plotly.png?raw=true)
  
